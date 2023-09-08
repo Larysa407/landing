@@ -7,7 +7,7 @@
 }
 
 body {
-  width: 1920px;
+  width: 100%;
   margin: 0 auto;
   font-family: "Montserrat", sans-serif;
 }
@@ -20,12 +20,12 @@ body {
   background-size: cover;
   background-attachment: fixed;
   height: 1012px;
-  width: 1920px;
+  width: 100%;
 }
 
 .header__container {
   background: #5e5d5899 fixed;
-  width: 1920px;
+  width: 100%;
 }
 
 .header__wrapper {
@@ -87,7 +87,7 @@ body {
 }
 
 .intro__wrapper {
-  width: 1920px;
+  width: 100%;
 }
 
 .intro__titles {
@@ -154,7 +154,7 @@ body {
 /* Blocks section */
 
 .section__wrapper {
-  width: 1920px;
+  width: 100%;
   display: flex;
 }
 
@@ -189,7 +189,7 @@ body {
 /* Our services */
 
 .service__container {
-  width: 1920px;
+  width: 100%;
 }
 
 .service__wrapper {
@@ -310,7 +310,7 @@ body {
 /* Purchase block */
 
 .purchase__container {
-  width: 1920px;
+  width: 100%;
   background-image: url(/images/purchase.png);
   height: 476px;
 }
@@ -356,7 +356,7 @@ body {
 /* Our amazing work */
 
 .work__container {
-  width: 1920px;
+  width: 100%;
   background-color: #e9edef;
 }
 
@@ -497,7 +497,7 @@ body {
 /* Breaking News */
 
 .news__container {
-  width: 1920px;
+  width: 100%;
 }
 
 .news__wrapper {
@@ -599,7 +599,7 @@ body {
 /* What people say about theHam */
 
 .feedback__container {
-  width: 1920px;
+  width: 100%;
   height: 853px;
   margin-top: 80px;
   background: url(/images/Layer__333.png) no-repeat;
@@ -734,7 +734,7 @@ body {
 /* Footer */
 
 .footer__container {
-  width: 1920px;
+  width: 100%;
   height: 121px;
   background-color: #22353f;
   display: flex;
